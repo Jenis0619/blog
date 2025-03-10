@@ -1,9 +1,3 @@
-<p align="center">
-<a href="https://pigjian.com/">
-<img src="https://pigjian.com/uploads/Logo.png" alt="Powered By Jiajian Chan" width="160">
-</a>
-</p>
-
 <p align="center">🎈 PJ Blog is an open source blog built with Laravel and Vue.js. <a href="https://pigjian.com">https://pigjian.com</a></p>
 
 <p align="center">
